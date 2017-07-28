@@ -28,7 +28,7 @@
       </groups>
       <controls>
         <!-- add your controls here -->
-        <button id="ToArcGISEarth_SyncToArcGISEarthButton" caption="Activate" className="SyncToArcGISEarthButton" loadOnClick="true" smallImage="Images\ArcGISEarth16.png" largeImage="Images\ArcGISEarth32.png">
+        <button id="ToArcGISEarth_SyncToArcGISEarthButton" caption="Connect" className="SyncToArcGISEarthButton" loadOnClick="true" smallImage="Images\ArcGISEarth16.png" largeImage="Images\ArcGISEarth32.png">
           <tooltip heading="Sync">Sync To ArcGIS Earth<disabledText /></tooltip>
         </button>
       </controls>
