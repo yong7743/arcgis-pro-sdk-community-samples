@@ -14,5 +14,5 @@ Sync ArcGIS Pro's Camera To ArcGIS Earth
 - You can find the tool on the 'Add-In' tab in ArcGIS Pro
 ![Addin Tab Image](Images/addin-tab.png)
 - Launch the ArcGIS Earth
-- Click the connet button
+- Click the connect button
 - Enjoy the tool
