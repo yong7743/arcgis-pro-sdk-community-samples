@@ -114,6 +114,7 @@ namespace EarthAPITest
                   }
                   else
                   {
+                      _channel = null;
                       return cFailed;
                   }
               }

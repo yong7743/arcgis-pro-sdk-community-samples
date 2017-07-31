@@ -1,7 +1,7 @@
 ﻿<ArcGIS defaultAssembly="ToArcGISEarth.dll" defaultNamespace="ToArcGISEarth" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
   <AddInInfo id="{94776263-9f12-4574-927e-c3c2de42bcaf}" version="1.0" desktopVersion="2.0.8933">
     <Name>ToArcGISEarth</Name>
-    <Description>ToArcGISEarth description</Description>
+    <Description>ArcGIS Pro to ArcGIS Earth</Description>
     <Image>Images\AddinDesktop32.png</Image>
     <Author>yong7743</Author>
     <Company>ESRI</Company>

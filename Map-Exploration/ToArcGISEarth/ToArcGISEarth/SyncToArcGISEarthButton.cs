@@ -28,7 +28,6 @@ namespace ToArcGISEarth
                 MapViewCameraChangedEvent.Unsubscribe(MapViewCameraCanged);
                 this.IsChecked = false;
                 this.Caption = "Connect";
-
             }
             else
             {
